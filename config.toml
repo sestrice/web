@@ -1,4 +1,10 @@
+title = "Sestrice apartments"
 baseURL = "https://sestrice.github.io/"
 languageCode = "en-us"
-title = "Sestrice"
-theme = "ananke"
+#theme = "ananke"
+theme = "gohugo-theme-ananke"
+
+[params]
+  #featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/sestrice2.jpg"
+  recent_posts_number = 5
