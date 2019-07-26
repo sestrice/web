@@ -1,0 +1,4 @@
+baseURL = "https://sestrice.github.io/"
+languageCode = "en-us"
+title = "Sestrice"
+theme = "ananke"
