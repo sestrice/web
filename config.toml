@@ -1,8 +1,10 @@
-title = "Sestrice apartments"
-baseURL = "https://sestrice.github.io/"
+title = "sestrice.casa"
+baseURL = "http://sestrice.casa/"
 languageCode = "en-us"
 theme = "ananke"
 
 [params]
+  description = "The last Croatia destination you'll ever need. Maybe."
   featured_image = "/images/home.jpg"
   recent_posts_number = 5
+  booking="https://www.booking.com/hotel/hr/sestrice.hr.html"

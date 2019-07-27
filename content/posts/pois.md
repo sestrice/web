@@ -1,5 +1,6 @@
 ---
 title: "Points of interest"
+featured_image: '/images/pois.jpg'
 date: 2019-07-26T21:33:17+02:00
 draft: false
 ---
