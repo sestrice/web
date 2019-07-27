@@ -2,6 +2,7 @@ title = "sestrice.casa"
 baseURL = "http://sestrice.casa/"
 languageCode = "en-us"
 theme = "ananke"
+menu = "main"
 
 [params]
   description = "The last Croatia destination you'll ever need. Maybe."
