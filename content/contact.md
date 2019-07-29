@@ -10,7 +10,7 @@ menu:
 ---
 
 I am available via 
-[email](mailto://msosaanic@gmail.com),
+[email](mailto:msosaanic@gmail.com),
 phone [+38598482370](tel:+38598482370), 
 [WhatsUp](https://wa.me/38598482370) or the form below.
 
