@@ -6,7 +6,7 @@ menu : "main"
 
 params:
   description : "The last Croatia destination you'll ever need. Maybe."
-  featured_image : "/images/home.jpg"
+  featured_image : "images/home2.jpg"
   recent_posts_number : 5
   booking: "https://www.booking.com/hotel/hr/sestrice.hr.html"
 
