@@ -21,9 +21,8 @@ I’m usually drinking coffee in The Beach Bar.
 
 #### Shops 
 
-Location of shops in Drage: [Studenac](https://www.google.com/maps/place/STUDENAC/@43.8820026,15.5445804,17z/data=!3m1!4b1!4m5!3m4!1s0x1334cd242a052ae7:0xdc5c7d358720dda8!8m2!3d43.8820026!4d15.5467691), [Sonik](https://goo.gl/maps/dtiF1WPW63L2)  
+Location of small shops in Drage: [Studenac](https://www.google.com/maps/place/STUDENAC/@43.8820026,15.5445804,17z/data=!3m1!4b1!4m5!3m4!1s0x1334cd242a052ae7:0xdc5c7d358720dda8!8m2!3d43.8820026!4d15.5467691), [Sonik](https://goo.gl/maps/dtiF1WPW63L2)  
 For the bigger shops you had to go to the Biograd (~10km).  
-TODO ubaci nove Plodine
 Here are location of two supermarkets: [Plodine](https://goo.gl/maps/HbzurVnt6UJ2), [Lidl](https://goo.gl/maps/6fWGASbSpSL2).  
 In Biograd there is also [market and fish market](https://goo.gl/maps/XuM3XujG4uM2). There you can usually find domestic fruits, vegetables and fresh fish.  
 

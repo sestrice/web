@@ -5,3 +5,21 @@ sc
 rounded
 Leckerli One
 110
+
+clone:
+``` sh
+git clone --recurse-submodules clone git@github.com:sestrice/web.git
+```
+
+to update theme:
+``` sh
+cd themes/ananke
+git checkout master && git pull
+cd - 
+```
+
+add booking image to the ananke theme:
+``` sh
+cp assets/ananke/socials/booking.svg themes/ananke/assets/ananke/socials/
+```
+
