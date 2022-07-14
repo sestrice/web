@@ -1,0 +1,17 @@
+title : "sestrice.casa"
+baseURL : "http://sestrice.casa/"
+languageCode : "en-us"
+theme : "ananke"
+menu : "main"
+
+params:
+  description : "The last Croatia destination you'll ever need. Maybe."
+  featured_image : "/images/home.jpg"
+  recent_posts_number : 5
+  booking: "https://www.booking.com/hotel/hr/sestrice.hr.html"
+
+  ananke_socials:
+  - name: booking
+    url: "https://www.booking.com/hotel/hr/sestrice.hr.html"
+    label: Booking.com
+    color: '#1da1f2'
